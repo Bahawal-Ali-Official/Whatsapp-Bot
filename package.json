@@ -2,10 +2,10 @@
   "name": "whatsapp-group-moderator",
   "version": "1.0.0",
   "description": "A WhatsApp bot to moderate group chats by deleting links, abusive content, and explicit media from non-admins.",
-  "main": "main.js",
+  "main": "Main.js",
   "type": "module",
   "scripts": {
-    "start": "node main.js"
+    "start": "node Main.js"
   },
   "keywords": [
     "whatsapp",
